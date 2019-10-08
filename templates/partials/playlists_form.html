@@ -1,0 +1,34 @@
+<fieldset>
+    <legend>{{ title }}</legend>
+    <!-- TITLE -->
+    <div class='form-group'>
+        <label for='playlist-title'>Title</label><br>
+        <input class='form-control' id='playlist-title' type='text' name='title' value='{{ playlist.title }}'/>
+    </div>
+    
+    <!-- DESCRIPTION -->
+    <div class='form-group'>
+        <label for='description'>Description</label><br>
+        <input class='form-control' id='description' type='text' name='description' value='{{ playlist.description }}' />
+    </div>
+    
+    <!-- VIDEO LINKS -->
+    <div class='form-group'>
+        <label for='playlist-videos'>Videos</label><br>
+        <p class='text-muted'>Add videos in the form of 'https://youtube.com/embed/KEY'. Separate with a newline.</p>
+        <textarea class='form-control' id='playlist-videos' name='videos' rows='10' />{{ "\n".join(playlist.videos) }}</textarea>
+    </div>
+    <!-- RATINGS -->
+    <div class='form-group'>
+        <label for="ratings">Rating</label>
+        <p class='text-muted'>Rate this playlist!</p>
+        <select class='form-control' name="ratings" id="rate" value='{{ playlist.ratings }}'>
+            <option value="0">0</option>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+        </select>
+    </div>
+    </fieldset>
