@@ -1,3 +1,4 @@
+# # db.penguin_items.insertOne({"" : "", "" : "", "" : "", "" : ""})
 from flask import Flask, render_template, request, redirect, url_for
 from pymongo import MongoClient
 from bson.objectid import ObjectId
@@ -47,10 +48,17 @@ def carts_show(cart_id):
 
 @app.route('/items/<item_id>')
 def item_show(item_id):
-    """Display item information."""
+    """Show item information."""
     item = items.find_one({'_id': ObjectId(item_id)})
     item_comments = comments.find({'item_id': ObjectId(item_id)})
     return render_template('items_show.html', item=item, comments=items_comments)
+
+@app.route('/categories/<category_id>')
+def category_show(category_id):
+    """Show categories."""
+    category = category.find_one({'_id': ObjectId(category_id)})
+    return render_template('category_show.html', category=category)
+
 
 @app.route('/playlists/<playlist_id>/edit')
 def playlists_edit(playlist_id):

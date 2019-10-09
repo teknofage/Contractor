@@ -1,4 +1,4 @@
-https://www.walmart.com/ip/4-Outdoor-Inflatable-Penguin/127641608?wmlspartner=wmtlabs&adid=22222222222277073624&wmlspartner=wmtlabs&wl0=e&wl1=s&wl2=c&wl3=74904324432140&wl4=pla-4578503884068090&wl5=&wl6=&wl7=&%20wl10=Walmart&wl12=127641608_10000001880&wl14=penguin%20products&veh=sem
+https://i5.walmartimages.com/asr/22b4b435-ae06-41c2-9908-63a82b17ecb6_1.f3ce12f05eb0700f8bfce7384a5a79a0.jpeg
 
 https://www.vetafarm.com/wp-content/uploads/2016/09/Product_Penguin-Tablets-1000.jpg
 
@@ -8,7 +8,7 @@ http://penguincorner.co.uk/wp-content/uploads/2016/10/Penguin-with-babies-bath-s
 
 http://cdn.shopify.com/s/files/1/0032/7522/products/Awkward_Penguin_5_1024x1024.jpg?v=1400686435
 
-https://item1.tradesy.com/images/gucci-gucci-vintage-signed-penguin-silver-salt-and-pepper-shakers-rare-collectors-items-2810605-0-0.jpg?width=720&height=960
+https://item1.tradesy.com/images/gucci-gucci-vintage-signed-penguin-silver-salt-and-pepper-shakers-rare-collectors-items-2810605-0-0.jpg
 
 
 https://i.pinimg.com/736x/54/21/1e/54211e0444cb68bceb7f6a47afa73d7c--penguin-species-pretty-drawings.jpg
@@ -31,22 +31,22 @@ https://cdn.notonthehighstreet.com/system/product_images/images/001/958/300/orig
 
 https://donkey-products.com/media/image/thumbnail/mugmonster_paulpenguin_720x600.png
 
-https://cdn.shopify.com/s/files/1/0405/5377/products/penguin-necklaces-making-a-heart-hand-cut-coin-jewelry-1.jpg?v=1504047320
+https://cdn.shopify.com/s/files/1/0405/5377/products/penguin-necklaces-making-a-heart-hand-cut-coin-jewelry-1.jpg
 
-https://cdn.shopify.com/s/files/1/1427/7594/products/n-4_2048x2048_cropped.jpg?v=1474280875
+https://cdn.shopify.com/s/files/1/1427/7594/products/n-4_2048x2048_cropped.jpg
 
 https://penguincorner.co.uk/wp-content/uploads/2016/10/Penguin-race-game-944x1200.jpg
 
-https://www.amazon.com/corimori-1847-Penguin-Slippers-Childrens/dp/B07JBD3C6P/ref=sr_1_13?keywords=penguin+products&qid=1569952615&sr=8-13
+https://images-na.ssl-images-amazon.com/images/I/81VO41yE5qL._SL1500_.jpg
 
-https://www.amazon.com/Penguin-Hugging-Birthday-Valentine-Christmas/dp/B07VNDWL7Y/ref=sr_1_82?keywords=penguin+products&qid=1569952700&sr=8-82
+https://images-na.ssl-images-amazon.com/images/I/51CvVEpht8L._SL1200_.jpg
 
-https://www.amazon.com/StickerPirate-Beware-Penguin-Vintage-Aluminum/dp/B01MR25KL0/ref=sr_1_131?keywords=penguin+products&qid=1569952792&sr=8-131
+https://images-na.ssl-images-amazon.com/images/I/71Y94QCqRlL._SL1500_.jpg
 
 
-https://www.amazon.com/Conforzy-Penguin-Standing-Training-Urinal/dp/B01M28L0YM/ref=sr_1_133?keywords=penguin+products&qid=1569952792&sr=8-133
+https://images-na.ssl-images-amazon.com/images/I/71s7gHym70L._SL1500_.jpg
 
-https://www.amazon.com/Childrens-Critter-Blankets-LazyOne-Blanket/dp/B06ZY8K25H/ref=sr_1_200?keywords=penguin+products&qid=1569953530&sr=8-200
+https://images-na.ssl-images-amazon.com/images/I/717yKg8cbOL._SL1500_.jpg
 
 
 
