@@ -1,4 +1,4 @@
-# # db.penguin_items.insertOne({"" : "", "" : "", "" : "", "" : ""})
+# db.penguin_items.insertOne({"item_id" : "Festive Penguin Toy", "item_type" : "toys", "item_size" : "24 inches", "item_price" : "$29.99"})
 from flask import Flask, render_template, request, redirect, url_for
 from pymongo import MongoClient
 from bson.objectid import ObjectId
@@ -21,7 +21,7 @@ def penguin_items_index():
 
 
 @app.route('/carts', methods=['POST'])
-def playlists_submit():
+def carts_submit():
     """Submit a new shopping cart."""
     cart = {
         'Item Name': request.form.get('Item Name'),
